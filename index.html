@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AUTO67 — Магазин запчастей</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bg-overlay"></div>
+    <div class="bg-glow-1"></div>
+    <div class="bg-glow-2"></div>
+    
+    <div class="cart-widgets" onclick="toggleCart()">
+        <div class="cart-btn">🛒 КОРЗИНА: <span id="cart-count">0</span></div>
+    </div>
+
+    <header onclick="showBrands()">
+        <div class="logo">AUTO67</div>
+        <p class="header-sub">Ваш надежный партнер в мире запчастей</p>
+    </header>
+
+    <main class="container">
+        <div class="search-wrapper">
+            <div class="search-inner">
+                <span style="margin-right: 15px;">🔍</span>
+                <input type="text" id="global-search" placeholder="Поиск по магазину..." autocomplete="off">
+            </div>
+            <div id="search-suggestions" class="search-suggestions hidden"></div>
+        </div>
+
+        <nav id="breadcrumbs" style="margin-bottom: 25px; color: var(--accent); font-size: 0.9rem;"></nav>
+        
+        <section id="brands-grid" class="grid-main"></section>
+        <section id="models-grid" class="grid-main hidden"></section>
+        
+        <section id="parts-section" class="hidden">
+            <div id="filter-tags" class="filter-tags"></div>
+            <div id="parts-list" class="parts-grid-six"></div>
+            
+            <div class="pagination" style="display:flex; justify-content:center; align-items:center; gap:20px; margin-top:50px; padding-bottom:50px;">
+                <button onclick="changePage(-1)" id="prev-btn" style="padding:10px 20px; cursor:pointer; background:var(--glass); color:#fff; border:1px solid var(--glass-border); border-radius:8px;">Назад</button>
+                <span id="page-info"></span>
+                <button onclick="changePage(1)" id="next-btn" style="padding:10px 20px; cursor:pointer; background:var(--glass); color:#fff; border:1px solid var(--glass-border); border-radius:8px;">Вперед</button>
+            </div>
+        </section>
+    </main>
+
+    <section class="info-section-dark">
+        <div class="info-row">
+            <div class="info-rect">
+                <span class="info-icon">📦</span>
+                <h4>Огромный выбор</h4>
+                <p>Более 10 000 позиций в наличии под любые задачи.</p>
+            </div>
+            <div class="info-rect">
+                <span class="info-icon">💎</span>
+                <h4>Лучшая цена</h4>
+                <p>Прямые поставки позволяют нам держать минимальный прайс.</p>
+            </div>
+            <div class="info-rect">
+                <span class="info-icon">🛡️</span>
+                <h4>Гарантия</h4>
+                <p>На все детали предоставляется официальная гарантия.</p>
+            </div>
+        </div>
+
+        <footer style="max-width:1200px; margin:60px auto 0; padding:40px 20px; border-top:1px solid var(--glass-border); display:flex; justify-content:space-between; flex-wrap:wrap;">
+            <div>
+                <h5 style="color:var(--accent);">AUTO67 SMOLENSK</h5>
+                <p>📍 ул. Индустриальная, 12/1</p>
+                <p>📞 <a href="tel:+79001234567" style="color:#fff; text-decoration:none;">+7 (900) 123-45-67</a></p>
+            </div>
+            <div style="margin-top:20px;">
+                <a href="https://t.me/Chevrolete01" style="padding:10px 20px; background:var(--glass); border:1px solid var(--glass-border); border-radius:50px; color:#fff; text-decoration:none;">Написать в Telegram</a>
+            </div>
+        </footer>
+    </section>
+
+    <div id="cart-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3 style="margin-top:0;">ВАШ ЗАКАЗ</h3>
+            <div id="cart-items-list"></div>
+            <div style="margin-top:15px;">
+                <input type="text" id="user-name" placeholder="Имя" style="width:100%; padding:10px; margin-bottom:10px; border-radius:8px; border:1px solid #333; background:#222; color:#fff; box-sizing:border-box;">
+                <input type="tel" id="user-phone" placeholder="Телефон" style="width:100%; padding:10px; margin-bottom:10px; border-radius:8px; border:1px solid #333; background:#222; color:#fff; box-sizing:border-box;">
+            </div>
+            <p>ИТОГО: <span id="total-sum">0</span> ₽</p>
+            <button id="submit-order-btn" onclick="checkoutToTelegram()" style="width:100%; padding:15px; background:var(--accent-grad); border:none; border-radius:10px; font-weight:bold; cursor:pointer;">ОТПРАВИТЬ ЗАКАЗ</button>
+            <button onclick="toggleCart()" style="width:100%; margin-top:10px; background:none; color:#fff; border:none; cursor:pointer;">Закрыть</button>
+        </div>
+    </div>
+
+    <script src="data/brands.js"></script>
+    <script src="data/models.js"></script>
+    <script src="data/kat.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

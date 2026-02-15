@@ -1,0 +1,352 @@
+
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10;IE=edge" />
+
+    <title>Логотипы Chevrolet | KimuraCars.com</title>      <meta name="description" content="Chevrolet – одно из величайших имен в автомобильной индустрии. Существующий с 1911 года автоконцерн успел выпустить модели, ставшие культовыми у автолюбителей всего мира. И поэтому вполне естественно, что и эмблема этой компании со временем приобрела статус культурной иконы." />
+    <meta name="keywords" content="японские автомобили, японские авто, владивосток авто, автомобили японии, авто из японии, автомобили из японии, японские аукционы, аукционы японии, автомобили с аукционов, японские автомобили продажа, продажа японских авто, продажа авто во владивостоке, аукционный лист, аукцион японских автомобилей, аукционы японских автомобилей, японские авто аукционы" />
+    
+    <meta name="referrer" content="origin" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="/templates/css/bootstrap4/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" type="text/css" href="/templates/css/style.css?v=16">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/templates/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/templates/js/scripts-innerpage.js?38343"></script>
+
+    <link rel="stylesheet" type="text/css" href="/templates/js/jquery.fancybox3/jquery.fancybox.min.css" media="screen" />
+    <script type="text/javascript" src="/templates/js/jquery.fancybox3/jquery.fancybox.min.js"></script>
+
+        
+    <link rel="shortcut icon" href="/des/favicon.ico" type="image/x-icon" />
+    <link rel="dns-prefetch" href="https://mc.yandex.ru"/>
+</head>
+<body class="inner">
+
+
+ 
+
+<div class="container">
+
+    <header class="inner-header">
+
+        <div class="row no-gutters">
+
+            <div class="col-6 col-sm-5 col-md-6">
+
+                <div class="inner-logo">
+                    <span id="btn-mobile-menu" data-statusinit="0"></span>
+                    <img class="img-inner-logo" src="/templates/i/logo.png" alt="лого kimuracars.com" onclick="goHome();">
+                    <span class="tip">Поставка авто с аукционов</span>
+                </div>
+            </div>
+
+            <div class="col-6 col-sm-7 col-md-6">
+
+                <div class="top-contacts">
+                    <span class="intp1">Бесплатно по РФ:</span> <a href="tel:+78005505064" class="tel">8-800-550-50-64</a>
+                    <div class="div-border"></div>
+                    <span class="ico-whatsapp js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="https://wa.me/+79250080616"></span>
+                    <span class="intp1">WhatsApp:</span> <span class="tel">+7</span> <span class="tel js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="https://wa.me/+79250080616">925-008-06-16</span>
+                </div>
+
+                
+            </div>
+
+        </div>
+
+
+        <div class="row align-items-center justify-content-center no-gutters" id="mini-info-board">
+                            <div class="col-6 col-sm-6 col-md-4 col-lg-2 bord-inner-user">
+                    <div class="item">
+                        <a class="mini-info entry" id="lnk-login-popup" href="javascript:void(0);" title="вход">Вход</a>
+                    </div>
+                </div>
+
+                <div class="col-md-1 d-none d-md-block"><div class="separator"></div></div>
+
+                <div class="col-6 col-sm-6 col-md-4 col-lg-2">
+                                    </div>
+                    </div>
+
+    </header>
+
+    <div id="menu" class="menu-hide">
+    <div class="mob-menu-header"><span id="btn-mobile-menu-close" class="btn-close icon-cancel-circled"></span></div>
+
+    <nav>
+        <ul>
+            <li>
+                <a href="/page/main" title="О компании">О компании</a>
+            </li>
+            <li>
+                <a href="/page/content/contacts" title="контакты kimuracars">Контакты</a>
+                <span class="menu-btnmore icon-plus-squared-alt" data-opened="0"></span>
+                <div class="contacts js-mob-menu-1div">
+                    <img class="icon pointer" src="/templates/i/inner/contacts/0.jpg" onclick="togo('/page/content/contacts');">
+                    <div class="description">
+                        <div class="address">
+                            Владивосток, ул. Тигровая д.16а<br>
+                            Тел.: <span class="js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="tel:+78005505064">8-800-550-50-64</span>
+                            <br>
+
+                            <div>
+                                <noindex>
+                                    <a class="mail" href="mailto:office@kimuracars.com" title="office@kimuracars.com">office@kimuracars.com</a>
+                                    <a rel="nofollow" class="skype" href="skype:kimura-vladivostok?chat" title="">kimura-vladivostok</a>
+                                    <span class="wtsapp js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="https://wa.me/+79250080616">7-925-008-06-16 (WhatsApp)</span>
+                                </noindex>
+                            </div>
+                        </div>
+                        <img class="icon pointer" src="/templates/i/inner/contacts/1.jpg" alt="контакты kimuracars в москве" onclick="togo('/page/content/contacts');">
+                        <div class="address2">
+                            Москва, ул. Пресненская набережная, 10<br>
+                            Тел.: <span class="js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="tel:+78005505064">8-800-550-50-64</span>
+                            <div>
+                                <noindex>
+                                    <a class="mail" href="mailto:office@kimuracars.com" title="office@kimuracars.com">office@kimuracars.com</a>
+                                    <a rel="nofollow" class="skype" href="skype:kimura-vladivostok?chat" title="">kimura-vladivostok</a>
+                                    <span class="wtsapp js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="https://wa.me/+79250080616">7-925-008-06-16 (WhatsApp)</span>
+                                </noindex>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="/reviews/clients/" title="отзывы клиентов о kimuracars">Отзывы клиентов</a>
+                <span class="menu-btnmore icon-plus-squared-alt" data-opened="0"></span>
+                <div class="clients js-mob-menu-1div" id="nav-clients">
+                    <ul id="menuuserreview"><li></li></ul>
+                </div>
+            </li>
+            <li>
+                <a href="/infoblock/" title="Информационный блок">Полезное</a>
+                <span class="menu-btnmore icon-plus-squared-alt" data-opened="0"></span>
+                <div class="helpful-info js-mob-menu-1div">
+                    <img class="icon" src="/templates/i/inner/useful_info/0.jpg" alt="Инфо-блок">
+                    <div class="list">
+                        <ul>
+                            <li><a href="/autoshow/tokyo-motor-show-2013/" title="Tokyo Motor Show 2013"><span>TOKYO MOTOR SHOW 2013</span></a></li>
+                            <li><a href="/page/content/osaka-motor-show-2012" title="Osaka Motor Show 2012"><span>OSAKA MOTOR SHOW 2012</span></a></li>
+                            <li><a href="/autoshow/tokyo-auto-salon-2014/" title="Tokyo Auto Salon 2014"><span>Токио Тюнинг 2014</span></a></li>
+                            <li><a href="/page/content/auction-review/index.html" title="Обзоры аукционов"><span>Обзоры аукционов</span></a></li>
+                                                    </ul>
+                        <ul>
+                            <li><a href="/page/content/logotipy-avtomobilej" title="Эмблемы и логотипы автомобилей"><span>Эмблемы и логотипы авто</span></a></li>
+                            <li><a href="/top/" title="ТОПы автомобилей"><span>ТОПы автомобилей</span></a></li>
+                            <li><a href="/news" title="Автомобильные новости"><span>Автомобильные новости</span></a></li>
+                            <li><a href="/page/content/toyota-museum/index" title="музей toyota"><span>Музей TOYOTA</span></a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="/page/content/alists" title="">Как читать аукционный лист</a></li>
+                            <li><a href="/page/content/whyauction" title="почему аукцион">Почему аукцион?</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="/page/root/services" title="Услуги">Услуги</a>
+                <span class="menu-btnmore icon-plus-squared-alt" data-opened="0"></span>
+                <div class="helpful-info js-mob-menu-1div">
+                    <div class="left">
+                        <img class="icon" src="/templates/i/inner/services.jpg" alt="услуги">
+                        <div class="list w180">
+                            <ul>
+                                <li><a href="/page/content/vladivostok" title="отправка авто по России"><span>Отправка авто в регионы</span></a></li>
+                                <li><a href="/page/content/banks/avto-v-kredits" title="автомобили в кредит"><span>Авто в кредит</span></a></li>
+                                                                <li><a href="/page/content/customs-clearance" title="Растаможка авто"><span>Растаможка авто</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                                    </div>
+            </li>
+                    </ul>
+    </nav>
+
+
+
+
+
+    <div id="left-menu">
+        <ul>
+                        <li>
+                <a href="/world/" class="mkor" title="Авто из Кореи">Авто из Кореи</a>
+                                    <ul>
+                        <li><a href="/world/" title="Текущие предложения из Кореи">Текущие предложения</a></li>
+                        <li><a href="/page/content/korea-affordable-cars" title="авто до 160 л.с. из Кореи">Авто до 160 л.с.</a></li>
+                        <li><a href="/page/content/koreanev" title="электромобиль из Кореи">Электромобили</a></li>
+                                                <li><a href="/autocatalog-korea/" title="каталог корейских автомобилей">Автокаталог</a></li>
+                        <li><a href="/page/content/korea-guarantee" title="гарантии при покупке авто из Кореи">Гарантии</a></li>
+                        <li><a href="/page/content/korea-how-to-buy" title="как купить из Кореи">Как купить</a></li>
+                    </ul>
+                            </li>
+            <li>
+                <a href="/auction/?isStats=1" class="mjp">Авто из японии</a>
+                                <ul>
+                                        <li><a href="/auction/?isStats=1" title="Цены на авто">Цены на авто</a></li>
+                    <li><a href="/page/content/japan-affordable-cars" title="авто до 160 л.с. из Японии">Авто до 160 л.с.</a></li>
+                                                            <li><a href="/autocatalog/" title="Каталог японских авто">Автокаталог</a></li>
+                    <li><a href="/page/content/guarantee" title="гарантии">Гарантии</a></li>
+                    <li><a href="/page/content/cooperation" title="как купить из Японии">Как купить</a></li>
+                                    </ul>
+                            </li>
+
+                        <li>
+                <a href="/china/" class="mchina" title="Авто из Китая">Авто из Китая</a>
+                                    <ul>
+                        <li><a href="/china/" title="Текущие предложения из Китая">Текущие предложения</a></li>
+                    </ul>
+                            </li>
+                    </ul>
+    </div>
+
+
+
+
+</div>
+
+
+
+
+  
+        <div id="content">
+
+            <aside id="cont-left-colum" class="left-column">
+                <noindex>
+                                        <a rel="nofollow" id="send-request-button" href="https://wa.me/+79250080616" target="_blank">
+                        <span>Отправить запрос</span>
+                    </a>
+                </noindex>
+            </aside>
+
+            <div id="content-right-colum" class="right-column">
+                
+                <section>
+                    
+
+<div class="blkcntr">
+
+<h1>Логотипы Chevrolet</h1> 
+    <div id="navigation">
+<ul>
+<li class="home"><a title="продажа авто" href="/">Продажа авто</a></li>
+<li class="separator">&raquo;</li>
+<li><a title="Логотипы автомобилей" href="/page/content/logotipy-avtomobilej">Логотипы автомобилей</a></li>
+<li class="separator">&raquo;</li>
+<li class="current"><span>Логотип/эмблема chevrolet</span></li>
+</ul>
+</div>
+<p><a class="fancybox" title="Логотип Chevrolet" href="/ifiles/cars_logos/chevrolet-logo.jpg" data-fancybox="gallery1" target="_blank"><img class="photo img-in-text-left" title="Логотип Chevrolet" src="/ifiles/cars_logos/chevrolet-logos.jpg" alt="Логотип Chevrolet" /></a> Chevrolet &ndash; одно из величайших имен в автомобильной индустрии. Существующий с 1911 года автоконцерн успел выпустить модели, ставшие культовыми у автолюбителей всего мира. И поэтому вполне естественно, что и эмблема этой компании со временем приобрела статус культурной иконы.</p>
+<p>Сегодня существуют различные теории о том, как появился логотип Chevrolet. Но все они, без сомнения, указывают на то, что авторство &laquo;галстука-бабочки&raquo; принадлежит Уильяму Крапо Дюранту, одному из основателей GM и Chevrolet. По одной из версий, отдыхая в парижском отеле, его привлек необычный узор обоев и он, недолго думая, оторвал кусок, который потом продемонстрировал своим коллегам в США. Рисунок настолько понравился ему, что он решил сделать его эмблемой компании.</p>
+<p><a class="fancybox" title="История логотипа Chevrolet" href="/ifiles/cars_logos/chevrolet-logos-history.jpg" data-fancybox="gallery1" target="_blank"><img class="photo img-in-text-right" title="История логотипа Chevrolet" src="/ifiles/cars_logos/chevrolet-logos-historys.jpg" alt="История логотипа Chevrolet" /></a> Другая история гласит о том, что будучи на отдыхе со своей женой, Дюрант обратил внимание на интересную фигуру в газетной рекламе угольной компании, которую тут же решил сделать эмблемой своей компании. Есть версия, по которой Дюрант часто любил придумывать логотипы, а затем зарисовывать свои творения &ndash; так и родился легендарный &laquo;галстук-бабочка&raquo;. Некоторые утверждают, что символ был разработан как стилизованная версия швейцарского флага, видимо, в честь Луи Шевроле, родившегося в этой европейской стране.</p>
+<p><a class="fancybox" title="Краткая история логотипа Chevrolet Corvette" href="/ifiles/cars_logos/corvette-logos-history.jpg" data-fancybox="gallery1" target="_blank"><img class="photo img-in-text-left" title="Краткая история логотипа Chevrolet Corvette" src="/ifiles/cars_logos/corvette-logos-historys.jpg" alt="Краткая история логотипа Chevrolet Corvette" /></a> Классическая эмблема Chverolet не единственное изображение, которому довелось украсить автомобили этой компании и стать частью автомобильной истории. Немаловажно упомянуть здесь и культовый логотип Corvette, ставший символом скорости, мощности и свободы. Впервые на этой модели он появился в 1953 году и стал с тех пор неотъемлемой её частью. С течением времени он многократно видоизменился, причем так часто, что описывать все его метаморфозы не имеет смысла &ndash; по этой теме можно написать практически книгу! Но неизменным всегда оставалось одно &ndash; два перекрещенных флага, которые в ходе редизайна логотипа в 1983 году лишь поменялись местами.</p>
+<p>Правый флаг в шашечку символизирует собой, как нетрудно догадаться, спортивные победы, коих у Corvette на сегодняшний день немало в послужном списке. С левой же стороны изначально планировалось изобразить государственный флаг США, однако законы тех запрещали использовать его в рекламных целях. Его место занял штандарт из красного полотна, на котором красовались логотип Chevrolet и геральдическая французская лилия &ndash; отсылка к историческим корням Луи Шевроле, одного из основателей легендарного автоконцерна.</p>
+
+
+
+
+</div>
+                </section>
+            </div>
+
+        </div>
+
+    
+
+    <footer class="inner">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="company-info">&copy; &laquo;Кимура&raquo;, 2003-2026</div>
+            </div>
+
+            <div class="col-12">
+                <noindex>
+                    <a class="phone" rel="nofollow" href="tel:+78005505064">8-800-550-50-64</a>
+                    <a class="mail" href="mailto:office@kimuracars.com">office@kimuracars.com</a>
+                    <a class="skype" rel="nofollow" href="skype:kimura-vladivostok?chat">kimura-vladivostok</a>
+                    <a class="privacy-policy" rel="nofollow" href="/page/content/privacy-policy" target="_blank">Политика конфиденциальности</a>
+                </noindex>
+            </div>
+        </div>
+    </footer>
+
+</div> 
+        <div id="mobile-menu-bodycolor"></div>
+
+            <div id="entry-modal-window" class="simplemodal-data requestfrm" style="display: none;">
+            <div class="modal-content">
+                                    <span class="head">
+                        Уже зарегистрированы?<br>
+                        Входите!
+                    </span>
+                <p>
+                    Для получения доступа к текущим предложениям на аукционах необходимо войти в систему. После входа в систему откроется возможность просмотра автомобилей, выставленных на торги. Конечная стоимость авто заранее не указана и станет известна только в день проведения аукциона по результатам проведенных торгов.
+                </p>
+                <form method="post" action="/user/login">
+                    <fieldset class="entry">
+                        <label for="login">Ваш логин</label>
+                        <input id="login" type="text" name="login">
+                    </fieldset>
+                    <fieldset class="entry">
+                        <label for="password">Пароль</label>
+                        <input id="password" type="password" name="password">
+                    </fieldset>
+                    <fieldset class="remember">
+                        <label><input type="checkbox" name="save" value="1" checked="checked">Запомнить меня</label>
+                                            </fieldset>
+                    <div class="submit">
+                        <input type="hidden" value="0" name="save">
+                        <input id="backUrlField" name="url" type="hidden" value="/world/" />
+
+                        <button type="submit">Войти</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    
+<noindex>
+    <script type="text/javascript">jQuery(function(){ getClientsPics(); });</script>
+</noindex>
+
+
+
+ 
+
+<noindex>
+    
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(52324888, "init", {
+            id:52324888,
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true,
+            ecommerce:"dataLayer"
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/52324888" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+
+
+
+    
+    <div class="whatsapp-button js-change2a" data-rel="nofollow noopener noreferrer" data-target="_blank" data-lnk="https://wa.me/+79250080616">
+        <img src="/templates/i/icons/whatsapp2.png">
+    </div>
+</noindex>
+
+</body>
+</html>
